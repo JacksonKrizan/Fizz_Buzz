@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Simple, correct FizzBuzz implementation
+
 public class Program
 {
     public static void Main(string[] args)

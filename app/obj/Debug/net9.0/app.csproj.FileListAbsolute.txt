@@ -12,3 +12,4 @@ C:\Users\jacks\Documents\Github\Fizz_Buzz\app\obj\Debug\net9.0\refint\app.dll
 C:\Users\jacks\Documents\Github\Fizz_Buzz\app\obj\Debug\net9.0\app.pdb
 C:\Users\jacks\Documents\Github\Fizz_Buzz\app\obj\Debug\net9.0\app.genruntimeconfig.cache
 C:\Users\jacks\Documents\Github\Fizz_Buzz\app\obj\Debug\net9.0\ref\app.dll
+C:\Users\jacks\Documents\Github\Fizz_Buzz\app\obj\Debug\net9.0\app.sourcelink.json
